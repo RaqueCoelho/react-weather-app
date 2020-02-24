@@ -1,7 +1,7 @@
 .Weather {
   border: 1px solid grey;
   font-family: sans-serif;
-  background-color: bisque;
+  background-color: #e7e4e4;
   padding: 10px;
   margin: 20px auto;
   max-width: 800px;
@@ -41,8 +41,8 @@
 
 .Weather .temperature {
   font-weight: bold;
-  font-weight: 200px;
-  font-size: 20px;
+  font-weight: 150px;
+  font-size: 30px;
 }
 
 .Weather .unit {
